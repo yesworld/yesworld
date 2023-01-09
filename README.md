@@ -34,7 +34,7 @@
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>
 
 
-**Coding Stats:**  
+## Coding Stats:
 
 [![yesworld's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesworld&show_icons=true&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
