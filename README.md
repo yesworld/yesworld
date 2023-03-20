@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ahmedshin Damir.</h1>
+<h1 align="center">Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Ahmedshin Damir.</h1>
 <h3 align="center">A Full Stack Developer :suspect:</h3>
 
 <div align="center">
