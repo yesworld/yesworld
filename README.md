@@ -36,6 +36,7 @@
 <a href="https://webpack.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.nginx.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://vitejs.dev/" rel="nofollow"> <img src="https://vitejs.dev/logo.svg" alt="Vite Next Generation Frontend Tooling" width="40" height="40" style="max-width: 100%;"> </a>
 
 
 ## Coding Stats:
