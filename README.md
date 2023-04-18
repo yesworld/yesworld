@@ -13,6 +13,8 @@
 </div>
 
 ## Contacts
+<img align="right" src="https://github.com/yesworld/yesworld/blob/main/giphy.gif" width="200px" />
+
 - [Portfolio](https://yesworld.github.io/portfolio/)
 - [CV](https://docs.google.com/document/d/1MYYm2w2dJ0wMuCSIsK64F7cJWNsvtyGuMBxUuqP04xg)
 - [LinkedIn](https://www.linkedin.com/in/yesworld/)
@@ -44,3 +46,6 @@
 [![yesworld's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesworld&show_icons=true&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![yesworld's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yesworld&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
