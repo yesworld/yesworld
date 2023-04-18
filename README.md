@@ -13,14 +13,14 @@
 </div>
 
 ## Contacts
-<img align="right" src="https://github.com/yesworld/yesworld/blob/main/giphy.gif" width="200px" />
-
 - [Portfolio](https://yesworld.github.io/portfolio/)
 - [CV](https://docs.google.com/document/d/1MYYm2w2dJ0wMuCSIsK64F7cJWNsvtyGuMBxUuqP04xg)
 - [LinkedIn](https://www.linkedin.com/in/yesworld/)
 - [Upwork for hiring](https://www.upwork.com/o/profiles/users/~01c2ce2b7960602c19/)
 
 ## Languages and framework
+<img align="right" src="https://github.com/yesworld/yesworld/blob/main/giphy.gif" width="200px" />
+
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
