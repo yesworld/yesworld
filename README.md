@@ -23,6 +23,7 @@
   
 ## Contacts
 - [Portfolio](https://yesworld.github.io/portfolio/)
+- [My Youtube](https://www.youtube.com/@dev.yesworld)
 - [CV](https://docs.google.com/document/d/1MYYm2w2dJ0wMuCSIsK64F7cJWNsvtyGuMBxUuqP04xg)
 - [LinkedIn](https://www.linkedin.com/in/yesworld/)
 - [Upwork for hiring](https://www.upwork.com/o/profiles/users/~01c2ce2b7960602c19/)
