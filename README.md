@@ -23,10 +23,16 @@
   
 ## Contacts
 - [Portfolio](https://yesworld.github.io/portfolio/)
-- [My Youtube](https://www.youtube.com/@dev.yesworld)
 - [CV](https://docs.google.com/document/d/1MYYm2w2dJ0wMuCSIsK64F7cJWNsvtyGuMBxUuqP04xg)
 - [LinkedIn](https://www.linkedin.com/in/yesworld/)
 - [Upwork for hiring](https://www.upwork.com/o/profiles/users/~01c2ce2b7960602c19/)
+
+## YouTube
+- :tv: Subscribe to [channel @dev.yesworld](https://www.youtube.com/channel/UCRWYGOCWalOGOXnzqJd2MbQ).
+- 💬 Leave a comment under any video.
+- 👍 Thanks for your **Like**!
+- ☕️ Thanks for your coffee - [donationalerts](https://www.donationalerts.com/r/dev_yesworld). You are the best! ☺️
+  
 
 ## Languages and framework
 <img align="right" src="https://github.com/yesworld/yesworld/blob/main/giphy.gif" width="200px" />
