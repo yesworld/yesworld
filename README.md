@@ -31,7 +31,9 @@
 - :tv: Subscribe to [channel @dev.yesworld](https://www.youtube.com/channel/UCRWYGOCWalOGOXnzqJd2MbQ).
 - 💬 Leave a comment under any video.
 - 👍 Thanks for your **Like**!
-- ☕️ Thanks for your coffee - [donationalerts](https://www.donationalerts.com/r/dev_yesworld). You are the best! ☺️
+- ☕️ Thanks for your coffee
+-  - [boosty](https://boosty.to/dev_yesworld)
+-  - [donationalerts](https://www.donationalerts.com/r/dev_yesworld). You are the best! ☺️
   
 
 ## Languages and framework
