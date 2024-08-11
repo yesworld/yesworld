@@ -20,12 +20,9 @@
 </picture>
 </div>
 
-  
-## Contacts
-- [Portfolio](https://yesworld.github.io/portfolio/)
-- [CV](https://docs.google.com/document/d/1MYYm2w2dJ0wMuCSIsK64F7cJWNsvtyGuMBxUuqP04xg)
-- [LinkedIn](https://www.linkedin.com/in/yesworld/)
-- [Upwork for hiring](https://www.upwork.com/o/profiles/users/~01c2ce2b7960602c19/)
+## My tutorials
+1. https://github.com/yesworld/tutorial-dnd-animals
+2. https://github.com/yesworld/tutorial-ascii-art
 
 ## YouTube
 - :tv: Subscribe to [channel @dev.yesworld](https://www.youtube.com/channel/UCRWYGOCWalOGOXnzqJd2MbQ).
@@ -34,7 +31,13 @@
 - ☕️ Thanks for your coffee
 -  - [boosty](https://boosty.to/dev_yesworld)
 -  - [donationalerts](https://www.donationalerts.com/r/dev_yesworld). You are the best! ☺️
-  
+   
+## Contacts
+- [Portfolio](https://yesworld.github.io/portfolio/)
+- [CV](https://docs.google.com/document/d/1MYYm2w2dJ0wMuCSIsK64F7cJWNsvtyGuMBxUuqP04xg)
+- [LinkedIn](https://www.linkedin.com/in/yesworld/)
+- [Upwork for hiring](https://www.upwork.com/o/profiles/users/~01c2ce2b7960602c19/)
+ 
 
 ## Languages and framework
 <img align="right" src="https://github.com/yesworld/yesworld/blob/main/giphy.gif" width="200px" />
@@ -47,10 +50,10 @@
 <a href="https://vuejs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://tailwindcss.com/" rel="nofollow"> <img src="https://tailwindcss.com/favicons/favicon-32x32.png?v=3" alt="tailwind" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://symfony.com" rel="nofollow">  </a>
+<a href="https://symfony.com" rel="nofollow"> <img src="https://avatars.githubusercontent.com/u/143937?s=280&v=4" alt="tailwind" width="40" height="40" style="max-width: 100%;"> </a>
 
 ### Devops
-<a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
+<a href="https://git-scm.com/" rel="nofollow"> <img src="https://git-scm.com/images/logo@2x.png" alt="git" width="auto" height="30"> </a>
 <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://gulpjs.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://webpack.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" style="max-width: 100%;"> </a>
