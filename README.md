@@ -25,7 +25,7 @@
 2. https://github.com/yesworld/tutorial-ascii-art
 
 ## YouTube
-- :tv: Subscribe to [channel @dev.yesworld](https://www.youtube.com/channel/UCRWYGOCWalOGOXnzqJd2MbQ).
+- :tv: Subscribe to YouTube [channel @dev.yesworld](https://www.youtube.com/channel/UCRWYGOCWalOGOXnzqJd2MbQ) or [RuTube](https://rutube.ru/channel/32991129/).
 - 💬 Leave a comment under any video.
 - 👍 Thanks for your **Like**!
 - ☕️ Thanks for your coffee
