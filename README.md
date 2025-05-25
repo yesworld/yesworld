@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Ahmedshin Damir.</h1>
-<h3 align="center">A Full Stack Developer :suspect:</h3>
-[📨 mail 📬](mailto:a.yesworld%2Bgihub@gmail.com)
-
+<h3 align="center">I'm a Full Stack Developer :suspect:</h3>
+<div align="center">
+  <a href="mailto:a.yesworld%2Bgihub@gmail.com" target="_blank">📨 Send me mail 📫 </a>
+</div>
+ 
 ![]([http://i.imgur.com/OUkLi.gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif))
 
 <div align="center">
