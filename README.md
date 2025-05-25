@@ -33,11 +33,12 @@
 - :tv: Subscribe to YouTube [channel @dev.yesworld](https://www.youtube.com/channel/UCRWYGOCWalOGOXnzqJd2MbQ) or [RuTube](https://rutube.ru/channel/32991129/).
 - 💬 Leave a comment under any video.
 - 👍 Thanks for your **Like**!
-- ☕️ Thanks for your coffee:
--  - [boosty](https://boosty.to/dev_yesworld)
--  - [donationalerts](https://www.donationalerts.com/r/dev_yesworld). You are the best! ☺️
-   
+
+## if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+- [☕️ boosty](https://boosty.to/dev_yesworld) You are the best! ☺️
+
 ## Contacts
+- [E-mail](mailto:a.yesworld%2Bgihub@gmail.com)
 - [Portfolio](https://yesworld.github.io/portfolio/)
 - [CV](https://docs.google.com/document/d/1MYYm2w2dJ0wMuCSIsK64F7cJWNsvtyGuMBxUuqP04xg)
 - [LinkedIn](https://www.linkedin.com/in/yesworld/)
