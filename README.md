@@ -29,7 +29,14 @@
 
 ## YouTube
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=5dPfBqWh2RY"><img width="140px" src="https://i.ytimg.com/vi/5dPfBqWh2RY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5dPfBqWh2RY">Игры JS на Новый год или пасхалка Рождество  в google поисковике 🎄#christmas #game #javascript #web</a> (Dec 19, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=NEGuqihT2Rg"><img width="140px" src="https://i.ytimg.com/vi/NEGuqihT2Rg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NEGuqihT2Rg">Часть 2: Создаем ASCII Art как middle разработчик JS, добавил Scale и обернем функционал в Class 🎨</a> (Dec 12, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=EZ8h0VKDyds"><img width="140px" src="https://i.ytimg.com/vi/EZ8h0VKDyds/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EZ8h0VKDyds">Часть 1: Создаем примитивный Ascii art из загружаемого рисунка на JS/HTML</a> (Jun 18, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=-4eb8_oP6jM"><img width="140px" src="https://i.ytimg.com/vi/-4eb8_oP6jM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-4eb8_oP6jM">21 сайт с интерактивным программированием для детей и взрослых или как заинтересовать ребенка в it.</a> (Dec 21, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
