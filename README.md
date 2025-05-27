@@ -28,6 +28,11 @@
 2. https://github.com/yesworld/tutorial-ascii-art
 
 ## YouTube
+<table>
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+</table>
+
 <img align="right" src="https://github.com/user-attachments/assets/d2c7a095-8a67-4f7b-8d54-b91d8c6fbfa2" width="200px" />
 
 - :tv: Subscribe to YouTube [channel @dev.yesworld](https://www.youtube.com/channel/UCRWYGOCWalOGOXnzqJd2MbQ) or [RuTube](https://rutube.ru/channel/32991129/).
