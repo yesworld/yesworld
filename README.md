@@ -29,8 +29,8 @@
 
 ## YouTube
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=5dPfBqWh2RY"><img width="140px" src="https://i.ytimg.com/vi/5dPfBqWh2RY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5dPfBqWh2RY">Игры JS на Новый год или пасхалка Рождество  в google поисковике 🎄#christmas #game #javascript #web</a> (Dec 19, 2024)<br/></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/5dPfBqWh2RY"><img width="140px" src="https://i.ytimg.com/vi/5dPfBqWh2RY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/5dPfBqWh2RY">Игры JS на Новый год или пасхалка Рождество  в google поисковике 🎄#christmas #game #javascript #web</a> (Dec 19, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=NEGuqihT2Rg"><img width="140px" src="https://i.ytimg.com/vi/NEGuqihT2Rg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NEGuqihT2Rg">Часть 2: Создаем ASCII Art как middle разработчик JS, добавил Scale и обернем функционал в Class 🎨</a> (Dec 12, 2024)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=EZ8h0VKDyds"><img width="140px" src="https://i.ytimg.com/vi/EZ8h0VKDyds/mqdefault.jpg"></a></td>
