@@ -12,7 +12,6 @@
 [![](https://shields.io/badge/version-3.0-green?logo=Vue.js&style=flat-square)](https://v3.vuejs.org/)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue?style=flat-square)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yesworld&theme=nord&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <div align="center">
