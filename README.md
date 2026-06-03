@@ -79,7 +79,8 @@
 <a href="https://vitejs.dev/" rel="nofollow"> <img src="https://vitejs.dev/logo.svg" alt="Vite Next Generation Frontend Tooling" width="40" height="40" style="max-width: 100%;"> </a>
 
 ### CTF
-(<img width="863" height="391" alt="image" src="https://github.com/user-attachments/assets/dc63537b-cfa5-4294-88ed-8922e8538d40" />)[https://github.com/yesworld/yesworld/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Alfa%20CTF%202026%20%E2%80%94%20%D0%94%D0%90%D0%9C%D0%98%D0%A0%20%D0%90%D0%A5%D0%9C%D0%95%D0%94%D0%A8%D0%98%D0%9D.pdf]
+
+[<img width="863" height="391" alt="Скриншот сертификата" src="https://github.com/user-attachments/assets/dc63537b-cfa5-4294-88ed-8922e8538d40" />](https://github.com/yesworld/yesworld/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Alfa%20CTF%202026%20%E2%80%94%20%D0%94%D0%90%D0%9C%D0%98%D0%A0%20%D0%90%D0%A5%D0%9C%D0%95%D0%94%D0%A8%D0%98%D0%9D.pdf)
 
 
 ### Come with me to HTB!
