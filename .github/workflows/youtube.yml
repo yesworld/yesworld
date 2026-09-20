@@ -2,7 +2,7 @@ name: YouTube Videos
 on:
   push:
   schedule:
-    - cron: '0 0 * * *' # раз в день
+  #  - cron: '0 0 * * *' # раз в день
   workflow_dispatch:
 
 jobs:
